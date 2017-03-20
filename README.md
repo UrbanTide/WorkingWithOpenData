@@ -11,7 +11,7 @@ Use the USMART global discovery to search for:
 3. Any datasets that contain text "planning decisions" (remember to clear the previous filter first!)
 
 ### Download data
-1. Download one of the PDFs from the Edinburgh 'Planning Decisions' dataset (<a href="https://usmart.io/#/org/edinburgh/discovery/discovery-view-detail/84b7995f-ec36-40cc-b5d5-b6ccc54cca1a?organisationGUID=181730cb-bda8-4dc2-a882-8c02aedc7125" target="_blank">link</a>).
+1. Download one of the PDFs from the Edinburgh 'Planning Decisions' dataset (https://usmart.io/#/org/edinburgh/discovery/discovery-view-detail/84b7995f-ec36-40cc-b5d5-b6ccc54cca1a?organisationGUID=181730cb-bda8-4dc2-a882-8c02aedc7125).
 2. Review the document - discuss how we could we make this data more accessible.
 
 ### Transform into spreadsheet
@@ -19,8 +19,8 @@ Use the USMART global discovery to search for:
 2. Discuss different ways you could structure the data.
 
 ### Upload data and add metadata
-1. Log into the USMART Playground with your USMART user account (<a href="https://usmart.io/#/org/beta/" target="_blank">https://usmart.io/#/org/beta/</a>).
-2. Create a new dataset from the dataset management page (<a href="https://usmart.io/#/org/beta/dataset/list" target="_blank">https://usmart.io/#/org/beta/dataset/list</a>) and complete all the metadata.
+1. Log into the USMART Playground with your USMART user account (https://usmart.io/#/org/beta/).
+2. Create a new dataset from the dataset management page (https://usmart.io/#/org/beta/dataset/list) and complete all the metadata.
 3. Upload your spreadsheet as a new file and generate "Raw File Download" resources.
 4. Preview your new dataset.
 
@@ -32,7 +32,7 @@ Use the USMART global discovery to search for:
 5. Preview your dataset.
 
 ### Advanced: Geocode addresses and create map
-1. Use the super simple USMART geocoding tool to extract longitude/latitude data from addresses (<a href="http://s3-eu-west-1.amazonaws.com/usmart-geocoder/index.html" target="_blank">http://s3-eu-west-1.amazonaws.com/usmart-geocoder/index.html</a>)
+1. Use the super simple USMART geocoding tool to extract longitude/latitude data from addresses (http://s3-eu-west-1.amazonaws.com/usmart-geocoder/index.html)
 2. Add the latitude and longitude information to your spreadsheet.
 3. Save your spreadsheet in CSV format.
 4. Replace the existing file in your dataset with this new CSV file.
