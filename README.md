@@ -11,7 +11,7 @@ Use the USMART global discovery to search for:
 3. Any datasets that contain text "planning decisions" (remember to clear the previous filter first!)
 
 ### Download data
-1. Download one of the PDFs from the Edinburgh 'Planning Decisions' dataset (<a href="https://usmart.io/#/org/edinburgh/discovery/discovery-view-detail/84b7995f-ec36-40cc-b5d5-b6ccc54cca1a?organisationGUID=181730cb-bda8-4dc2-a882-8c02aedc7125" target="_blank">https://usmart.io/#/org/edinburgh/discovery/discovery-view-detail/84b7995f-ec36-40cc-b5d5-b6ccc54cca1a?organisationGUID=181730cb-bda8-4dc2-a882-8c02aedc7125</a>).
+1. Download one of the PDFs from the Edinburgh 'Planning Decisions' dataset (<a href="https://usmart.io/#/org/edinburgh/discovery/discovery-view-detail/84b7995f-ec36-40cc-b5d5-b6ccc54cca1a?organisationGUID=181730cb-bda8-4dc2-a882-8c02aedc7125" target="_blank">link</a>).
 2. Review the document - discuss how we could we make this data more accessible.
 
 ### Transform into spreadsheet
