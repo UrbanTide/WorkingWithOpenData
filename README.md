@@ -1,7 +1,5 @@
 # Play & Work with Open Data (DataFest 2017) 
-<img width="100" src="http://res.cloudinary.com/hrscywv4p/image/upload/c_limit,fl_lossy,h_1440,w_720,f_auto,q_auto/v1/83772/WATF_DataFest_2017_qmznvu.png">  
-<img width="100" src="https://pbs.twimg.com/profile_images/502811585300033536/qPt8L46D_400x400.png">
-<img width="100" src="https://s3-eu-west-1.amazonaws.com/usmart-static/USMART_logo.png">
+<img width="100" src="http://res.cloudinary.com/hrscywv4p/image/upload/c_limit,fl_lossy,h_1440,w_720,f_auto,q_auto/v1/83772/WATF_DataFest_2017_qmznvu.png"/> <img width="100" src="https://pbs.twimg.com/profile_images/502811585300033536/qPt8L46D_400x400.png"/> <img width="100" src="https://s3-eu-west-1.amazonaws.com/usmart-static/USMART_logo.png"/>
 
 
 ## Working with open data
